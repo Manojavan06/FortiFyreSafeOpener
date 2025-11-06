@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SafeOpener</string>
+    <string name="log_app_name">FortiFyre Logs</string>
 </resources>
+
